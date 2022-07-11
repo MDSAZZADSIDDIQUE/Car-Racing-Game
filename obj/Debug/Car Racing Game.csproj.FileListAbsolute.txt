@@ -1,0 +1,11 @@
+C:\Users\mdsaz\source\repos\Car Racing Game\bin\Debug\Car Racing Game.exe.config
+C:\Users\mdsaz\source\repos\Car Racing Game\bin\Debug\Car Racing Game.exe
+C:\Users\mdsaz\source\repos\Car Racing Game\bin\Debug\Car Racing Game.pdb
+C:\Users\mdsaz\source\repos\Car Racing Game\obj\Debug\Car Racing Game.csproj.AssemblyReference.cache
+C:\Users\mdsaz\source\repos\Car Racing Game\obj\Debug\Car Racing Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\mdsaz\source\repos\Car Racing Game\obj\Debug\Car_Racing_Game.Form1.resources
+C:\Users\mdsaz\source\repos\Car Racing Game\obj\Debug\Car_Racing_Game.Properties.Resources.resources
+C:\Users\mdsaz\source\repos\Car Racing Game\obj\Debug\Car Racing Game.csproj.GenerateResource.cache
+C:\Users\mdsaz\source\repos\Car Racing Game\obj\Debug\Car Racing Game.csproj.CoreCompileInputs.cache
+C:\Users\mdsaz\source\repos\Car Racing Game\obj\Debug\Car Racing Game.exe
+C:\Users\mdsaz\source\repos\Car Racing Game\obj\Debug\Car Racing Game.pdb
